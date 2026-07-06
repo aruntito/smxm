@@ -1,9 +1,8 @@
-# Contributing
+# Contributing to SMXM
 
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes with clear messages.
-4. Submit a Pull Request.
+SMXM focuses on product-specific execution and media workflows.
 
-Ensure your code adheres to existing style guidelines.
+## Product Guidance
+1. Focus on scalable distribution principles.
+2. Keep workflows minimal and modular.
+3. Submit PRs against feature branches.
